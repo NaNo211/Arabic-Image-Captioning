@@ -43,5 +43,4 @@ isbn={978-989-758-402-2},
 }
 ```
 
-## Contact information
-For help, issues, or personal communication related to this work, please contact Obeida ElJundi: [oae15@mail.aub.edu](mailto:oae15@mail.aub.edu)
+
