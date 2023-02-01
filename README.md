@@ -3,7 +3,7 @@ Generate Arabic captions for images using Deep Learning
 
 Paper: [here](https://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=88812)
 
-Dataset: [./data/Flickr8k_text/Flickr8k.arabic.full.txt](https://www.kaggle.com/datasets/kanishkme/flicker-8k-image-dataset-captionstxt)
+Dataset: [kaggle](https://www.kaggle.com/datasets/kanishkme/flicker-8k-image-dataset-captionstxt)
 
 documentation: [here](https://github.com/NaNo211/Arabic-Image-Captioning/blob/main/ARABIC_CAPTIONING_DOCUMENTATION.pdf)
 
