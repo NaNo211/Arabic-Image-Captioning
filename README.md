@@ -14,6 +14,7 @@ Image Captioning refers to the art of describing the content of an image by comp
 ### Inspired by recent advances in neural machine translation, the sequence-to-sequence encoder-decoder and merge model approach was adopted here.
 ### seq2seq encoder-decoder using GRU:
 <img src=https://github.com/NaNo211/Arabic-Image-Captioning/blob/main/images/seq2seq_no_dropout_3.png width="250" height="250" />
+
 ### Merge Model:
 <img src=(https://github.com/NaNo211/Arabic-Image-Captioning/blob/main/images/merge_model.png width="250" height="250" />
 For mode details, please check the paper.
