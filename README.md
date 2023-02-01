@@ -3,9 +3,9 @@ Generate Arabic captions for images using Deep Learning
 
 Paper: [here](https://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=88812)
 
-Dataset: [./data/Flickr8k_text/Flickr8k.arabic.full.txt](./data/Flickr8k_text/Flickr8k.arabic.full.txt)
+Dataset: [./data/Flickr8k_text/Flickr8k.arabic.full.txt](https://www.kaggle.com/datasets/kanishkme/flicker-8k-image-dataset-captionstxt)
 
-Presentation: [here](https://drive.google.com/file/d/1vt1LcE_0xEFHpQ95bLWLNWqrwZ9AbTS8/view?usp=sharing)
+documentation: [here](https://github.com/NaNo211/Arabic-Image-Captioning/blob/main/ARABIC_CAPTIONING_DOCUMENTATION.pdf)
 
 ## Introduction
 Image Captioning refers to the art of describing the content of an image by computers. It is a well-known problem in CV and NLP. It has many applications, such as improved information retrieval, early childhood education, for visually impaired persons, for social media, and so on. Although remarkable work has been accomplished recently for English, and due to the lack of large and publicly available dataset, the progress on Arabic Image Captioning is still lagging. Therefore, we developed our own dataset based on Flickr8K. It can be found under **data/Flickr8k_text/** folder, named **Flickr8k.arabic.full.txt**. It has the exact same format as the original Flickr8K.
